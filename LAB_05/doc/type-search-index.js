@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"KI_304.Slyvka.Lab5","l":"CalcApp"},{"p":"KI_304.Slyvka.Lab5","l":"ExpressionCalculator"},{"p":"KI_304.Slyvka.Lab5","l":"FileHandler"}];updateSearchResults();

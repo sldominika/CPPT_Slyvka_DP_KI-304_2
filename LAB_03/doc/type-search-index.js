@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"KI_304.Slyvka.Lab3","l":"AbstractGun"},{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"KI_304.Slyvka.Lab3","l":"WaterGun"},{"p":"KI_304.Slyvka.Lab3","l":"WaterGunApp"},{"p":"KI_304.Slyvka.Lab3","l":"WaterWeapon","k":"10"}];updateSearchResults();

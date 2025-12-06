@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"KI_304.Slyvka.Lab6","l":"OrganicWaste"},{"p":"KI_304.Slyvka.Lab6","l":"PlasticWaste"},{"p":"KI_304.Slyvka.Lab6","l":"Waste"},{"p":"KI_304.Slyvka.Lab6","l":"WasteApp"},{"p":"KI_304.Slyvka.Lab6","l":"WasteContainer"}];updateSearchResults();
